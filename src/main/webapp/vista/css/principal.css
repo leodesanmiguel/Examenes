@@ -1,0 +1,34 @@
+.logout li {
+    text-align: center;
+}
+
+.logout li img {
+    margin-top: 20px;
+    width: 60;
+    height: 60px;
+}
+
+.nav {
+    background-color: #3388FF;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.navfooter {
+    background-color: rgb(127, 204, 255, 0.7);
+}
+
+.img{
+	
+	height: 150px;
+}
